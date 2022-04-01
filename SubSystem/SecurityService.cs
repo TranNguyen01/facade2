@@ -1,6 +1,6 @@
-public class SercurityService {
+public class SecurityService {
     private string code;
-    public SercurityService(string secCode){
+    public SecurityService(string secCode){
         this.code = secCode;
     }
 
